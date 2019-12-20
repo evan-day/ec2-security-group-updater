@@ -1,2 +1,2 @@
 sourceIPAddress=$(curl -s ifconfig.me)
-echo $sourceIPAddress
+echo "The IP Address to add to your Security Group is $sourceIPAddress"
