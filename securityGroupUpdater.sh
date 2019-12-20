@@ -1,0 +1,2 @@
+$SOURCE_IPADDRESS = curl ifconfig.me
+echo $SOURCE_IPADDRESS
